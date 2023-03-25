@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: dbo
+    database: wu3pool
+    schema: dbo
+    tables:
+      - name: Users
+      - name: ListeningHistory
+      - name: Songs
+      - name: Artists
+      - name: UserPreferences
