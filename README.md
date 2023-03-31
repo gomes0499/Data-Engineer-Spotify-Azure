@@ -1,4 +1,4 @@
-# 3.Data-Engineer - Spotify - Study Case
+# Data-Engineer - Spotify - Study Case
 
 ## Spotify
 The main objective of this project is to analyze music trends on the Spotify platform, and recommend popular songs and artists to users based on their listening history and preferences. The project will involve building a batch data pipeline using various Azure services and tools.
