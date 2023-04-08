@@ -20,6 +20,7 @@ The main objective of this project is to analyze music trends on the Spotify pla
 
 ### Tools
 * Python
+* Jupyter
 * Airflow
 * Terraform
 * Github Actions
