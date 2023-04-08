@@ -5,3 +5,4 @@ logs
 terraform.tfstate
 3-Project-Agile-Development.pdf
 .terraform.lock.hcl
+dummy-data.py
