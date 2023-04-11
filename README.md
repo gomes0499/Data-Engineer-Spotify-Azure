@@ -27,7 +27,7 @@ The main objective of this project is to analyze music trends on the Spotify pla
 * Docker
 * Azure SQL Server
 * Azure Blob Storage
-* Azure Databricks Storage
+* Azure Databricks 
 * Azure Synapses Analytics
 * DBT
 
