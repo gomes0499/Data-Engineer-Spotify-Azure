@@ -16,7 +16,7 @@ The main objective of this project is to analyze music trends on the Spotify pla
 10. **Data Orchestration**: Orchestrate the data pipeline using with Airflow in Docker.
 
 ### Pipeline Diagram
-![alt text](https://github.com/makima0499/3.Data-Engineer/blob/main/3.DataPipeline.png)
+![alt text](https://github.com/makima0499/3.Data-Engineer/blob/main/Spotify.png)
 
 ### Tools
 * Python
